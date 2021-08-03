@@ -10,7 +10,9 @@
 
 ![Header](https://github.com/kilchevskii/kilchevskii/blob/main/assets/logo.png)
 
-About me
+## Hello there, I'm Vladislav 
+
+## a front-end developer. I love to explore new technologies and broaden my knowledge and skills.
 
 Language and Tools
 
